@@ -15,7 +15,7 @@ git clone https://github.com/sentioxyz/sentio-sdk
 cd examples/mirrorworld
 ```
 
-5. open (profile)[https://test.sentio.xyz/profile] page, generate a api key
+5. open [profile](https://test.sentio.xyz/profile) page, generate a api key
 copy paste the prompt command line  `yarn sentio login ...`
 
 6.  try upload the project
